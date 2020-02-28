@@ -1,14 +1,21 @@
-.s1{
-    text-align: center;
-    color: green;
+body{
+    background-color: cadetblue;
+}
+
+.square1{
+    text-align: left;
+    color: blue;
+    font-family: fantasy;
 }
 
 .s2{
     text-align: center;
+
     color: yellow;
 }
 
-.s3{
-    text-align: center;
-    color: darkblue;
+.square3{
+    text-align: right;
+    color: purple;
+    font-family: unset;
 }
