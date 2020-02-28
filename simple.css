@@ -1,14 +1,21 @@
+body{
+    background-color: cadetblue;
+}
+
 .square1{
-    text-align: center;
+    text-align: left;
     color: blue;
+    font-family: fantasy;
 }
 
 .square2{
     text-align: center;
     color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .square3{
-    text-align: center;
+    text-align: right;
     color: purple;
+    font-family: unset;
 }
